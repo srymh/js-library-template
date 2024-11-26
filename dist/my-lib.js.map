@@ -1,0 +1,1 @@
+{"version":3,"file":"my-lib.js","sources":["../src/index.ts"],"sourcesContent":["export const echo = (message: string): string => message;\n"],"names":["echo","message"],"mappings":"6NAAa,MAAAA,EAAQC,GAA4BA"}
