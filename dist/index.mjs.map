@@ -1,1 +1,0 @@
-{"version":3,"file":"index.mjs","sources":["../src/index.ts"],"sourcesContent":["export const echo = (message: string): string => message;\n"],"names":["echo","message"],"mappings":"AAAa,MAAAA,IAAO,CAACC,MAA4BA;"}

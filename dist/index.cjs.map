@@ -1,1 +1,0 @@
-{"version":3,"file":"index.cjs","sources":["../src/index.ts"],"sourcesContent":["export const echo = (message: string): string => message;\n"],"names":["echo","message"],"mappings":"gFAAa,MAAAA,EAAQC,GAA4BA"}
