@@ -5,7 +5,7 @@
 
 簡単な説明: このライブラリが何をするものなのかを1〜2行で記述します。
 
-[デモ](./docs/index.html)
+[デモ](https://srymh.github.io/js-library-template/)
 
 ---
 
